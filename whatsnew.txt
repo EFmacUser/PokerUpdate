@@ -1,1 +1,10 @@
-In dieser Datei werden die Beschreibungen der Neuerungen abgelegt.
+Version 1.6.0.1
+Im Dialog Auswertungen wurde die Möglichkeit geschaffen, den jeweiligen Bericht als „nackte“ CSV-Datei zu exportieren. Die Daten können so in anderen Programmen, z.B. WordPress, weiterverarbeitet werden.
+Kleinere Bugfixes.
+
+Version 1.6.0.0
+Das Programm startet nun mit einem Splash-Screen. 
+In dieser Phase wird bei der Windows-Version automatisch geprüft, ob in GitHub eine neuere Version des Programms vorliegt. Bitte hierzu die Hinweise im Kapitel 4.3 beachten! Der Download kann dann im Hintergrund gestartet und das Programm zunächst normal weiter genutzt werden. Nach dem Download entscheidet der Nutzer über den Dialog für die programmweiten Einstellungen, ob er das Update installieren möchte.
+Dementsprechend wurde im Dialog für die programmweiten Einstellungen ein neuer Unter-Tab „Allgemein - Aktualisierung“ geschaffen.
+Die im Voreinstellungen-Dialog eines Turniers im Tab „Spieler“ vorgenommenen Einstellungen zur Anzeige der Reihenfolge der Spalten Nachname und Vorname sowie der gekürzten bzw. vollständigen Namensanzeige merkt sich das Programm.
+Ebenso auch im Tab „Sitz-Verteilung“.

@@ -1,2 +1,2 @@
 # PokerUpdate
- Repo für die aktuellste Version des PokerTimers in der Windows-Version
+ Repository für die aktuellste Version des PokerTimers in der Windows-Version
