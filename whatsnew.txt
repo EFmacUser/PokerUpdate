@@ -1,3 +1,17 @@
+Version 1.7.0.0
+Rudimentäre Verwaltung eines E-Mail-Accounts, über den die Anmeldungen einer Web-Page laufen. Siehe auch das neue Kapitel „Mail-Account“.
+Die Darstellung der Timer-Panel (Main-Event und Single-Table) wurde intern umgebaut, damit bei der Vergrößerung des Timer-Panels eine ordentliche Skalierung stattfindet. Dafür wurde die Standardgröße der Fenster des Main-Events sowie Single-Tables für eine Bildschirmauflösung von 800x600 Punkte angepasst. Dadurch sollte eine vernünftige Darstellung schon auf Beamern mit dieser Auflösung erfolgen können.
+Dabei ist zu berücksichtigen, dass insbesondere der Dialog zur Konfiguration des Turniers weiterhin eine Größe von mindestens 1070x730 Punkten benötigt. Der Bildschirm des Management-Rechners muss also weiterhin größer sein.
+Das Main-Event kann jetzt auch mit einer privaten iPhone-App ferngesteuert werden. Dies kann von den Windows-Usern jedoch nicht genutzt werden.
+Bei Doppelklick auf die Statuszeile des Hauptprogrammfensters wird die IP-Adresse des Web-Servers in die Zwischenablage kopiert. Bei Apple-Geräten kann die Adresse dann direkt im iPad / iPhone im Browser / der App eingefügt werden.
+Im Dialog Sitzverteilung kann jetzt ausgewählt werden, dass die Dealer bei der Zufallsverteilung nicht mit umgesetzt werden sollen. Dies ist für Turniere mit mehreren Tischen und bereits zugeordneten Dealern je Tisch sinnvoll.
+Im Dialog „Spieler umsetzen“ wurde die Logik für die Tischauflösung optimiert. Die Spieler des aufzulösenden Tisches werden jetzt so auf die verbleibenden Tische verteilt, dass sie möglichst ausbalanciert sind.
+Um mehrere Blindstufen auszuwählen, für die eine neue einheitliche Dauer eingestellt werden soll, können diese Zeilen jetzt per Maus oder Shift+Pfeiltaste in der Spalte Dauer ausgewählt werden. Diese werden dann in der ersten Spalte entsprechend aus-/abgewählt, so dass über die Gruppe „Multi-Select“ eine Bearbeitung erfolgen kann.
+In allen Dialogen mit Such-Feldern wird die Suche jetzt nicht mehr durch einen Suche-Button gestartet, sondern automatisch sobald mit Taste Tabulator zum nächsten Eingabe-Suchfeld gesprungen wird.
+Interne Anpassungen, um höhere Wiederverwertbarkeit von Programmteilen zu erhalten. Dies könnte ggf. zu neuen Fehlerkonstellationen führen, da nur teilweise Tests erfolgten. 
+Kleinere Bugfixes und interne Optimierungen.
+
+
 Version 1.6.0.1
 Im Dialog Auswertungen wurde die Möglichkeit geschaffen, den jeweiligen Bericht als „nackte“ CSV-Datei zu exportieren. Die Daten können so in anderen Programmen, z.B. WordPress, weiterverarbeitet werden.
 Kleinere Bugfixes.
