@@ -11,7 +11,6 @@ In allen Dialogen mit Such-Feldern wird die Suche jetzt nicht mehr durch einen S
 Interne Anpassungen, um höhere Wiederverwertbarkeit von Programmteilen zu erhalten. Dies könnte ggf. zu neuen Fehlerkonstellationen führen, da nur teilweise Tests erfolgten. 
 Kleinere Bugfixes und interne Optimierungen.
 
-
 Version 1.6.0.1
 Im Dialog Auswertungen wurde die Möglichkeit geschaffen, den jeweiligen Bericht als „nackte“ CSV-Datei zu exportieren. Die Daten können so in anderen Programmen, z.B. WordPress, weiterverarbeitet werden.
 Kleinere Bugfixes.
