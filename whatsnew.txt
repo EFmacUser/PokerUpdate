@@ -1,3 +1,16 @@
+
+          *************.   ACHTUNG. BITTE. UNBEDINGT  LESEN !!!!!!     *************.
+
+Das Update darf NICHT über den Update-Button gestartet werden!!
+
+Bitte stattdessen den PokerTimer beenden und das Update manuell durch Aufruf der updater.exe starten.
+
+Weitere Erläuterungen siehe in den Bedienungshinweisen in den Kapiteln "Änderungshistorie" und "Aktualisierungen".
+
+
+          *************.   ACHTUNG. BITTE. UNBEDINGT  LESEN !!!!!!     *************.
+
+
 Version 1.7.0.0
 Rudimentäre Verwaltung eines E-Mail-Accounts, über den die Anmeldungen einer Web-Page laufen. Siehe auch das neue Kapitel „Mail-Account“.
 Die Darstellung der Timer-Panel (Main-Event und Single-Table) wurde intern umgebaut, damit bei der Vergrößerung des Timer-Panels eine ordentliche Skalierung stattfindet. Dafür wurde die Standardgröße der Fenster des Main-Events sowie Single-Tables für eine Bildschirmauflösung von 800x600 Punkte angepasst. Dadurch sollte eine vernünftige Darstellung schon auf Beamern mit dieser Auflösung erfolgen können.
