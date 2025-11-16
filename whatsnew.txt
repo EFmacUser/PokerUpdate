@@ -1,14 +1,18 @@
 
-          *************.   ACHTUNG. BITTE. UNBEDINGT  LESEN !!!!!!     *************.
+          *************.   ACHTUNG  BITTE  VORAB  UNBEDINGT  LESEN !!!!!!     *************.
 
 Das Update darf NICHT über den Update-Button gestartet werden!!
 
 Bitte stattdessen den PokerTimer beenden und das Update manuell durch Aufruf der updater.exe starten.
 
-Weitere Erläuterungen siehe in den Bedienungshinweisen in den Kapiteln "Änderungshistorie" und "Aktualisierungen".
+Weitere Erläuterungen siehe in den Bedienungshinweisen in den Kapiteln "Änderungshistorie" und "Aktualisierungen" des Dokuments Bedienungshinweise.pdf, das nach diesem Download ausnahmsweise zusätzlich im Programm-Ordner des PokerTimers zu finden ist!
 
 
-          *************.   ACHTUNG. BITTE. UNBEDINGT  LESEN !!!!!!     *************.
+          *************.   ACHTUNG  BITTE  UNBEDINGT  LESEN !!!!!!     *************.
+
+Version 1.7.0.1
+Der mit Version 1.6.0.0 eingeführte Update-Prozess hat leider einen Fehler, der verhindert, dass der PokerTimer bis einschließlich Version 1.7.0.0 bei Start des Updates korrekt geschlossen wird. Dies hat das Kopieren der neuen PokerTimer.exe verhindert. Dies wurde nun gefixed, so dass zukünftige Updates sauber durchlaufen dürften. 
+Um von einer älteren Version auf die jetzige Version 1.7.0.1 updaten zu können, bitte die ergänzenden Hinweise im Kapitel „Aktualisierungen“ beachten!
 
 
 Version 1.7.0.0
@@ -24,9 +28,11 @@ In allen Dialogen mit Such-Feldern wird die Suche jetzt nicht mehr durch einen S
 Interne Anpassungen, um höhere Wiederverwertbarkeit von Programmteilen zu erhalten. Dies könnte ggf. zu neuen Fehlerkonstellationen führen, da nur teilweise Tests erfolgten. 
 Kleinere Bugfixes und interne Optimierungen.
 
+
 Version 1.6.0.1
 Im Dialog Auswertungen wurde die Möglichkeit geschaffen, den jeweiligen Bericht als „nackte“ CSV-Datei zu exportieren. Die Daten können so in anderen Programmen, z.B. WordPress, weiterverarbeitet werden.
 Kleinere Bugfixes.
+
 
 Version 1.6.0.0
 Das Programm startet nun mit einem Splash-Screen. 
